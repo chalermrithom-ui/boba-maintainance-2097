@@ -1,0 +1,18 @@
+[
+  {
+    "id": "LOG-0001",
+    "repairId": "REP-4312",
+    "timestamp": "2026-07-18 12:00:00",
+    "type": "ปิดงานซ่อม",
+    "description": "ปิดงานซ่อมห้อง 902 เปลี่ยนหลอดไฟ LED 3 ดวง",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-0002",
+    "repairId": "REP-9582",
+    "timestamp": "2026-07-21 09:30:00",
+    "type": "รับงานซ่อม",
+    "description": "ช่าง SKY รับงานซ่อมก๊อกน้ำห้อง 405",
+    "updatedBy": "admin@boba-maintenance.com"
+  }
+]

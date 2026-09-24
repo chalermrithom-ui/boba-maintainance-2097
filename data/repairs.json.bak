@@ -1,0 +1,64 @@
+[
+  {
+    "id": "REP-9582",
+    "workDate": "2026-07-20",
+    "apptDate": "2026-07-21",
+    "apptTime": "10:00",
+    "condoName": "อาคาร A (Grande Tower)",
+    "roomNo": "405",
+    "details": "ก๊อกน้ำในห้องน้ำรั่วซึมตลอดเวลา น้ำไหลอ่อน",
+    "technician": "SKY",
+    "status": "IN_PROGRESS",
+    "beforeImg": "img-before-1",
+    "afterImg": "",
+    "notes": "",
+    "parts": [],
+    "totalCost": 0,
+    "updatedAt": "2026-07-21 09:30:00",
+    "priority": "งานปกติ"
+  },
+  {
+    "id": "REP-2341",
+    "workDate": "2026-07-19",
+    "apptDate": "2026-07-20",
+    "apptTime": "14:30",
+    "condoName": "อาคาร B (Ocean View)",
+    "roomNo": "1208",
+    "details": "เครื่องปรับอากาศในห้องนอนใหญ่มีเสียงดังผิดปกติและไม่มีลมเย็น",
+    "technician": "Jay Jay",
+    "status": "PENDING",
+    "beforeImg": "img-before-2",
+    "afterImg": "",
+    "notes": "",
+    "parts": [],
+    "totalCost": 0,
+    "updatedAt": "2026-07-19 14:40:00",
+    "priority": "งานเร่งด่วน"
+  },
+  {
+    "id": "REP-4312",
+    "workDate": "2026-07-18",
+    "apptDate": "2026-07-18",
+    "apptTime": "11:00",
+    "condoName": "อาคาร A (Grande Tower)",
+    "roomNo": "902",
+    "details": "หลอดไฟโคมระย้าห้องโถงขาด 3 ดวง ต้องการให้เปลี่ยนเป็นหลอด LED ประหยัดไฟ",
+    "technician": "CHAINS",
+    "status": "COMPLETED",
+    "beforeImg": "img-before-3",
+    "afterImg": "img-after-3",
+    "notes": "ดำเนินการเปลี่ยนหลอดไฟ LED เรียบร้อยแล้ว แสงสว่างปกติ",
+    "parts": [
+      {
+        "id": "INV-101",
+        "name": "หลอดไฟ LED 9W",
+        "qty": 3,
+        "unit": "ดวง",
+        "price": 120
+      }
+    ],
+    "totalCost": 360,
+    "updatedAt": "2026-07-18 12:00:00",
+    "priority": "งานปกติ"
+  }
+]

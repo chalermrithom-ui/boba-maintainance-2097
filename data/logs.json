@@ -1,0 +1,58 @@
+[
+  {
+    "id": "LOG-5680",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 13:03:35",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"เสร็จสิ้น\" เป็น \"รอดำเนินการ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-0343",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 13:03:30",
+    "type": "เสร็จงาน",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"รอตรวจสอบ\" เป็น \"เสร็จสิ้น\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-9097",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 13:03:29",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"กำลังดำเนินการ\" เป็น \"รอตรวจสอบ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-7904",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 13:03:27",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"รอดำเนินการ\" เป็น \"กำลังดำเนินการ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-9158",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 12:56:39",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"กำลังดำเนินการ\" เป็น \"รอดำเนินการ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-7814",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 12:56:37",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"รอดำเนินการ\" เป็น \"กำลังดำเนินการ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  },
+  {
+    "id": "LOG-5286",
+    "repairId": "REP-2757",
+    "timestamp": "10/8/2569 12:56:35",
+    "type": "เปลี่ยนสถานะ",
+    "description": "[Kanban Drag & Drop] ปรับเปลี่ยนสถานะงานซ่อมจาก \"กำลังดำเนินการ\" เป็น \"รอดำเนินการ\"",
+    "updatedBy": "admin@boba-maintenance.com"
+  }
+]

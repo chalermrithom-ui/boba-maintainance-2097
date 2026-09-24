@@ -1,0 +1,6 @@
+{
+  "name": "FixFlow",
+  "description": "เว็บแอปภาษาไทยสำหรับแจ้ง ติดตาม และจัดการงานช่างซ่อมบ้าน/คอนโด ครบวงจร ทั้งผู้แจ้งงาน ผู้ดูแลระบบ และช่างซ่อม",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
